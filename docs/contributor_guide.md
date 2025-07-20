@@ -2,8 +2,6 @@
 
 The PEARS (Prolog Event-Action Rule System) workspace in VS Code provides a comprehensive development environment with intelligent code assistance, automated testing, and project-specific optimizations.
 
-For any information please contact [dario.bottazzi@capgemini.com](mailto:dario.bottazzi@capgemini.com).
-
 ## Workspace Features
 
 ### Intelligent Code Assistance
