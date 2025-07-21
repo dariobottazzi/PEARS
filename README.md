@@ -15,15 +15,12 @@ PEARS is a comprehensive Event-Condition-Action (ECA) rule system implemented in
 
 ```
 ├── src/                    # Source code
-│   └── pears.pl           # Main PEARS implementation
-├── tests/                 # Test suite
+│   └── pears.pl            # Main PEARS implementation
+├── tests/                  # Test suite
 │   └── test_pears_fixed.pl # Comprehensive test cases
-├── docs/                  # Documentation (to be added)
-├── examples/              # Usage examples (to be added)
-├── .github/               # GitHub configuration
-│   └── copilot-instructions.md
-├── .vscode/               # VS Code configuration
-└── README.md              # This file
+├── docs/                   # Documentation (to be added)
+├── examples/               # Usage examples (to be added)
+└── README.md               # This file
 ```
 
 ## Quick Start
